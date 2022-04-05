@@ -1,0 +1,12 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Romain Brault",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "mail@romainbrault.com",
+  "friendly_name": "Crypto Berry Bot",
+  "github_user": "RomainBrault",
+  "license": "Apache-2.0",
+  "package_name": "crypto_berry_bot",
+  "project_name": "CryptoBerryBot",
+  "version": "0.0.0"
+}
