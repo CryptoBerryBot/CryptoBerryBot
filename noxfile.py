@@ -94,11 +94,7 @@ def precommit(session: Session) -> None:
     session.install(
         "black",
         "darglint",
-        "flake8",
-        "flake8-bandit",
-        "flake8-bugbear",
-        "flake8-docstrings",
-        "flake8-rst-docstrings",
+        "pylint",
         "pep8-naming",
         "pre-commit",
         "pre-commit-hooks",
