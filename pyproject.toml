@@ -21,6 +21,8 @@ Changelog = "https://github.com/RomainBrault/CryptoBerryBot/releases"
 [tool.poetry.dependencies]
 python = "^3.10"
 click = "^8.0.1"
+prefect = "^1.2.0"
+ccxt = "^1.78.12"
 
 [tool.poetry.dev-dependencies]
 pytest = "^7.1.1"
