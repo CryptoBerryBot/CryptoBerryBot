@@ -22,7 +22,7 @@ Changelog = "https://github.com/RomainBrault/CryptoBerryBot/releases"
 python = "^3.10"
 click = "^8.0.1"
 prefect = "^1.2.0"
-ccxt = "^1.78.12"
+ccxt = "^1.90.78"
 pandas = "^1.4.2"
 SQLAlchemy = "^1.4.34"
 
